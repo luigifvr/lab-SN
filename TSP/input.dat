@@ -1,0 +1,22 @@
+32
+0.1
+0.5
+250
+200
+10000
+500
+1
+1
+0
+
+
+	cities
+	pMutations
+	pCrossover
+	GA generations
+	GA population
+	SA MCsteps
+	SA beta_max
+	SA beta_step
+	state: 0 circle, 1 square
+	algorithm: 0 GA, 1 SA

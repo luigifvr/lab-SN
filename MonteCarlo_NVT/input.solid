@@ -1,0 +1,17 @@
+0.8
+108
+1.1
+2.2
+0.11
+100
+1500
+500
+
+  ReadInput >> temp;
+  ReadInput >> npart;
+  ReadInput >> rho;
+  ReadInput >> rcut;
+  ReadInput >> delta;
+  ReadInput >> nblk;
+  ReadInput >> nstep;
+  ReadInput >> eqsteps  
